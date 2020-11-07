@@ -6,7 +6,7 @@ public class GitProject02 {
 
 		System.out.println("Hello World from git-local machine");
 		System.out.println("Hello World-from gitHub");
-
+		System.out.println("One more from git local");
 
 	}
 
