@@ -9,6 +9,7 @@ public class GitProject02 {
 		System.out.println("One more from git local");
 		System.out.println("Second more from git local");
 		System.out.println("Second more from git local");
+		System.out.println("This is from GitHub");
 
 	}
 
