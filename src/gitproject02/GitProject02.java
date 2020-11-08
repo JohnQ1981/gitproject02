@@ -6,6 +6,14 @@ public class GitProject02 {
 
 		System.out.println("Hello World from git-local machine");
 		System.out.println("GitHub typed on master");
+		System.out.println("Hello World from git-local machine");
+		System.out.println("GitHub typed on master");
+		System.out.println("Hello World from git-local machine");
+		System.out.println("GitHub typed on master");
+		System.out.println("Hello World from git-local machine");
+		System.out.println("GitHub typed on master");
+		System.out.println("Hello World from git-local machine");
+		System.out.println("GitHub typed on master");
 
 
 	}
